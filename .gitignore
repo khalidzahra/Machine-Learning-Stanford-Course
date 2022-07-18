@@ -2,3 +2,6 @@ lib
 token.mat
 *.mlx
 submit.m
+*.asv
+*.zip
+exercise_files
